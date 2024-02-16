@@ -10,4 +10,5 @@ Running the script is really simple! Just open a terminal in the folder where yo
 
 📺 Demo
 
-![image](https://github.com/amkc777/Python_mini_Projects/assets/137847978/e0bcb8aa-11d9-4594-801d-4b9122c713dc)
+https://github.com/amkc777/Python_mini_Projects/assets/137847978/745bec54-219b-4403-b3f5-3a36f2455ed7
+
