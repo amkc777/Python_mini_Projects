@@ -2,6 +2,9 @@
 
 This Python script simulates rolling a six-sided dice and displays the result using ASCII art for each face.
 
+
+![image](https://github.com/amkc777/Python_mini_Projects/assets/137847978/f20bd13b-60a2-4beb-8272-c67912887b05)
+
 ## Usage
 
 1. Clone the repository to your local machine:
@@ -35,4 +38,9 @@ This script utilizes the `random` module to simulate rolling a six-sided dice. E
 The user can roll the dice multiple times until they decide to quit the simulator by pressing 'q' or choosing not to roll again.
 
 This script demonstrates basic usage of random number generation, ASCII art, user input handling, and loop control in Python.
+
+
+📺 Demo
+
+https://github.com/amkc777/Python_mini_Projects/assets/137847978/745bec54-219b-4403-b3f5-3a36f2455ed7
 
